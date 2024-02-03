@@ -1,5 +1,12 @@
 # An Investment Calculator App
 This application provides a financial summary of an individual's investment, by using markers such as duration, capital invested and expected Return etc. to determine ROI accrued throughout the investment tenure
+
+![investment calculator](src/assets/ic.png)
+
+![investment calculator](src/assets/ic.png)
+
+
+
 # React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
