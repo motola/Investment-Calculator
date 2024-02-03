@@ -1,4 +1,4 @@
-# An Investment Calculator App
+An Investment Calculator App
 This application provides a financial summary of an individual's investment, by using markers such as duration, capital invested and expected Return etc. to determine ROI accrued throughout the investment tenure
 
 ![investment calculator](src/assets/ic.png)
