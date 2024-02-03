@@ -1,5 +1,5 @@
 import {useState} from 'react';
-import InputUser from "./components/inputUser";
+import InputUser from './components/InputUser';
 import Results from './components/Results';
 
 function App() {
